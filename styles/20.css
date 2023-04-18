@@ -1,0 +1,51 @@
+header{
+    justify-content: center;
+    align-items: center;
+    
+}
+h1{
+    color:rgb(80, 107, 107);
+}
+h2{
+color: red;
+font-size: 30px;
+}
+.d1{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+ 
+}
+.c1{
+    padding: 25px;
+    background-color: aliceblue;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0.5px solid cadetblue;
+    font-size: 50px;
+    color: cadetblue;
+   
+}
+
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    margin: 50px;
+    width: 230px;
+    height: 50px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border: 0px;
+    background-color: rgb(80, 107, 107);
+    color: aliceblue;
+    
+}
